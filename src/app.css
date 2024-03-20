@@ -1,3 +1,9 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+@layer utilities {
+	.clip-heart {
+		clip-path: inset(7% 21% 7% 7% round 10%);
+	}
+}
