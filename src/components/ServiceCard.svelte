@@ -17,7 +17,7 @@
 	<div class="flex items-center justify-center">
 		<img class="object-contain w-full max-h-[300px]" {src} alt={imageAlt} />
 	</div>
-	<div class="flex flex-col gap-4 p-4 flex-2">
+	<div class="flex flex-col h-full gap-4 p-4 flex-2">
 		<h3 class="text-3xl">{info.title}</h3>
 
 		<p class="text-xl">{info.subtitle}</p>
