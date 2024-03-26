@@ -18,7 +18,6 @@ export default {
 				'"Segoe UI Emoji"',
 				'"Segoe UI Symbol"',
 				'"Noto Color Emoji"',
-				'sans-serif'
 			]
 		},
 		extend: {
@@ -26,7 +25,7 @@ export default {
 				'text-light': '#474747',
 				'text-dark': '#2b2b2b',
 				// 'brand-dark': '#45828c',
-				// 'brand-light': '#A7D4D8'
+				// 'brand-light': '#A7D4D8',
 				'brand-dark': '#F6AE6C',
 				'brand-light': '#fae2c5'
 			}
