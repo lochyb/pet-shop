@@ -1,5 +1,5 @@
 <script>
-	const src = '/cat-dance.gif';
+	const src = '/gif/cat-dance.gif';
 	let name = 'Cat Meme';
 
 	import Button from '../components/Button.svelte';
@@ -7,7 +7,7 @@
 
 	let infos = [
 		{
-			imageUrl: '/cat-dj.gif',
+			imageUrl: '/gif/cat-dj.gif',
 			title: 'Dance Lessons',
 			subtitle: 'Any pet can be fabulous with the right teacher',
 			menu: [
@@ -19,7 +19,7 @@
 		},
 
 		{
-			imageUrl: '/cat-typing.gif',
+			imageUrl: '/gif/cat-typing.gif',
 			title: 'Programming Lessons',
 			subtitle: 'Take our course to become a certified Cat Software Engineer',
 			menu: [
@@ -30,7 +30,7 @@
 			linkText: 'Start Learning Now'
 		},
 		{
-			imageUrl: '/cat-work-out.gif',
+			imageUrl: '/gif/cat-work-out.gif',
 			title: 'Personal Training',
 			subtitle: 'Get that beach body ready',
 			menu: [
@@ -41,7 +41,7 @@
 			linkText: 'Start Training Now'
 		},
 		{
-			imageUrl: '/cat-cool.gif',
+			imageUrl: '/gif/cat-cool.gif',
 			title: 'Influencer Lessons',
 			subtitle: 'Learn the skills to build your own brand',
 			menu: [
